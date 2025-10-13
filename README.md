@@ -9,17 +9,18 @@
 
 <h3>Automatización de Procesos de Manufactura</h3>
 
-<!-- Logo del grupo -->
-<img src="a02988d2-edd4-4cee-8deb-d37850cf0be6.png" alt="Logo INFERA" width="150px" style="margin-top: 10px;">
-
-<!-- Información del grupo -->
+<div align="center">
+<picture>
+<img width="230" height="180" alt="image" src="https://github.com/user-attachments/assets/07211015-102d-4f0a-957f-9e961cb2c35b" />
+</picture>
+    
 <h3>Grupo INFERA</h3>
 <p>
 <b>Integrantes:</b><br>
-Andrés Santiago Cañon Porras
-David Camilo Valbuena Molano
-Isabella Mendoza Cáceres
-Juan Manuel Rojas Luna
+Andrés Santiago Cañon Porras <br>
+David Camilo Valbuena Molano <br>
+Isabella Mendoza Cáceres <br>
+Juan Manuel Rojas Luna <br>
 Samuel Alejandro Cruz Saavedra
 </p>
 
