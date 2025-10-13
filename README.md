@@ -8,13 +8,12 @@
 # Proyecto Integrador
 
 <h3>Automatización de Procesos de Manufactura</h3>
-
-<div align="center">
-<picture>
-<img width="230" height="180" alt="image" src="https://github.com/user-attachments/assets/07211015-102d-4f0a-957f-9e961cb2c35b" />
-</picture>
     
 <h3>Grupo INFERA</h3>
+<div align="center">
+<picture>
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/07211015-102d-4f0a-957f-9e961cb2c35b" />
+</picture>
 <p>
 <b>Integrantes:</b><br>
 Andrés Santiago Cañon Porras <br>
