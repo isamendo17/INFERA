@@ -7,9 +7,9 @@
 
 # Proyecto Integrador
 
-<h3>Automatización de Procesos de Manufactura</h3>
+<h2>Automatización de Procesos de Manufactura</h2>
     
-<h4>Grupo INFERA</h4>
+<h3>Grupo INFERA</h3>
 <div align="center">
 <picture>
 <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/07211015-102d-4f0a-957f-9e961cb2c35b" />
