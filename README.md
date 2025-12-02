@@ -32,6 +32,7 @@ Infera es un proyecto de consultoría en ingeniería enfocado en la automatizaci
 </div>
 
 <div align="justify">
+    
 ## Página Web
 Para saber más de lo que hemos estado realizando, te invitamos a consultar nuestra página web [INFERA](https://davidcvalbuena.github.io/INFERA-/)
 </div>
