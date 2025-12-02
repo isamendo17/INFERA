@@ -1,5 +1,3 @@
-
-
 ### Beneficios Anuales Estimados
 
 Los beneficios anuales provienen principalmente de la reducción de mano de obra, optimización de tiempos de producción y disminución del desperdicio de material. Estos tres factores generan ahorros combinados por $100.000.000 COP al año, lo que representa la base del retorno económico del proyecto.
